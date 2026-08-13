@@ -1,0 +1,6 @@
+{
+  "name": "Techfliy",
+  "description": "Bento grid tech news platform featuring live breaking updates, hardware and AI reports, interactive bookmarks, and customizable news filters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
